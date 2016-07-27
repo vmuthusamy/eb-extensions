@@ -137,7 +137,7 @@
                        pattern="%h %l %u %t &quot;%r&quot; %s %b" />
 
                 <!-- Add context path to application -->
-                <Context path="case-management-services" docBase="ROOT">
+                <Context path="your-project-name" docBase="ROOT">
                     <WatchedResource>WEB-INF/web.xml</WatchedResource>
                 </Context>
             </Host>
